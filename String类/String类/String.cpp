@@ -122,6 +122,9 @@ int main()
 		cout << *it;
 
 	cout << endl;
+
+
+
 	system("pause");
 	return 0;
 }
